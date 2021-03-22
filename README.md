@@ -49,5 +49,17 @@ COM           ->    COM
 NO            ->    NO
 
 
+## **Third parties libraries** 📚
+
+[Time](https://github.com/PaulStoffregen/Time)
+
+[MCU Friend](https://github.com/prenticedavid/MCUFRIEND_kbv)
+
+[Touchscreen](https://github.com/adafruit/Adafruit_TouchScreen)
+
+[Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+
+[DHT](https://github.com/adafruit/DHT-sensor-library)
+
 
 I made a case for print with a 3D printer but I need to test for myself first. Anyway you can try to connect the thermost where you want.
