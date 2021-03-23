@@ -1,15 +1,5 @@
 //Pantalla de 320x240
 
-/*
-LOG:
-
--15/07/18:		Termostato funcional con todo tipo de funciones. Fuente y tama�o cambiado para una mejor lectura y resolucion. A parte, se ha modificado el codigo para que solo se imprima el texto una vez y no todo el rato, para mayor velocidad/fluidez general.
--15/07/18:		Cambiar funcionamiento de grafica. Quiero poner unos saltos de grafica en el eje X donde aparezcan marcas de tiempo. A parte molaria que empezase dibujando una pantalla de 1 minuto, despues una de 5, despues una de 10... Que vaya incrementando con el paso del tiempo...
-Para ello, primero empezar cambiando los saltos de grafica en el eje Y de 11 a 10: En el setup(), cambiar tempMin = temp - 4. En dibujarSaltosGrafica() en el for, que i vaya desde 0 hasta 198.
-Despues en dibujarGrafica() cambiar los limites de dibujo que estaran en el eje Y en 220, a 198.
-Una vez tengamos espacio abajo, hay que crear algun tipo de funcion que vaya incrementando TIEMPO_GRAFICA hasta algun valor limite, para que la grafica vaya cambiando.
-Tambien estaria bien, que la parte que toquemos de la grafica, nos diga la temperatura que habia en ese momento por si no se ve bien en la grafica.
-*/
 
 //#include <registers.h>
 //#include <pin_magic.h>
