@@ -1,5 +1,5 @@
 # Programmable thermostat
-Arduino thermostat using touchscreen LCD
+_Arduino thermostat using touchscreen LCD_
 
 
 
