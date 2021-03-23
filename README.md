@@ -1,4 +1,4 @@
-# Thermostat
+# Programmable thermostat
 Arduino thermostat using touchscreen LCD
 
 
