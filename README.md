@@ -15,6 +15,10 @@ This was a personal work, and I added custom features that I wanted for me, like
 
 _Main menu_
 
+![image](https://user-images.githubusercontent.com/80455606/112225852-b56a6d80-8c2d-11eb-83db-2f356a3f5b4b.png)
+
+_Temperature graph_
+
 
 
 ## **Components** 🛒
