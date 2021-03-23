@@ -52,6 +52,7 @@ COM           ->    COM
 
 NO            ->    NO
 
+----------------------------------------------------------------
 
 DHT sensor (temperature and humidity) has the following diagram:
 
