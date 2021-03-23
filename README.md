@@ -53,6 +53,17 @@ COM           ->    COM
 NO            ->    NO
 
 
+DHT sensor (temperature and humidity) has the following diagram:
+
+**DHT   --    Arduino**
+
+VCC   ->    5V
+
+GND   ->    GND
+
+DAT   ->    26
+
+
 ## **Third parties libraries** 📚
 
 [Time](https://github.com/PaulStoffregen/Time)
