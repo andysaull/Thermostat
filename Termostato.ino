@@ -36,7 +36,7 @@ void setup()
 
 void loop()
 {
-	ajustarTema(temaEnum, tema);				//No deberia hacer falta porque esta puesto en el setup(), pero da fallo...
+	ajustarTema(temaEnum, tema);
 	time_t t = now();
 	lecturaSensor();
 	registrarTempMaxMin();
